@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Fan, currently a BI analyst and an aspiring Data Scientist.
+
+TYou'll find here some of my master's and personal projects.
+
 <!--
 **FanWu95/FanWu95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

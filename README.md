@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fan, currently a BI analyst and an aspiring Data Scientist.
+I'm Fan, currently a Business Data Analyst and an aspiring Data Scientist.
 
 TYou'll find here some of my master's and personal projects.
 
